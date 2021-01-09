@@ -17,11 +17,13 @@ body {
 }
 
 h1 {
-  font-size: 3.75rem;
+  font-size: 3.3rem;
   color: black;
   text-transform: uppercase;
   text-align: center;
   line-height: 150%;
+  width: 90%;
+  margin: 0% auto;
 }
 
 .subtitle {
